@@ -1,0 +1,3 @@
+- 👋 Olá, Sou @JIgor02
+- 🎮 Gosto de jogos em mundo aberto
+- 🌱 Atualmente estou aprendendo Java
