@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Igor</h1>
+<h1 align="left">Hi, I'm Igor:wave:</h1>
 </a></p>
 
 <div align="center">
