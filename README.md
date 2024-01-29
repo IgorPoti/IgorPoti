@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -42,3 +38,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
